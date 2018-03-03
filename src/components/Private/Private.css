@@ -1,0 +1,8 @@
+.upperSection{
+    display: flex;
+
+}
+.titleText{
+    width: 500px;
+    height: 150px;
+}
